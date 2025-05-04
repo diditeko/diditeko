@@ -8,6 +8,7 @@
 <p align="left"> <a href="https://twitter.com/bosstaurus4" target="blank"><img src="https://img.shields.io/twitter/follow/bosstaurus4?logo=twitter&style=for-the-badge" alt="bosstaurus4" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/diditeko](https://github.com/diditeko)
+- You can se my portfolio at [https://portofolio-didit.vercel.app/]
 
 - 📝 I regularly write articles on [https://medium.com/@diditekosetyo](https://medium.com/@diditekosetyo)
 
