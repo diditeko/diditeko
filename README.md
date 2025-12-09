@@ -1,36 +1,18 @@
-<h1 align="center">Hi 👋, I'm Didit Eko Setyo Ariandi</h1>
-<h3 align="center">A Data Scientist with Aerospace Engineering. who is interested in Data Analysis and Machine Learning. I am eager to learn new things about data.</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/images/b24460d29cfb2126afbba78c2b02a0d3/tenor.gif">
+# 💫 About Me:
+Experienced Data Scientist with a strong background in Python, SQL, ETL pipelines, and deep learning. Proven ability to<br>analyze complex datasets and uncover actionable insights that drive business value. Skilled in data manipulation, visualization,<br>and predictive modeling, enabling informed and strategic decision-making. Collaborative and results-oriented, with a track record<br>of working effectively across cross-functional teams to transform business needs into impactful data-driven solutions.
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=diditeko&label=Profile%20views&color=0e75b6&style=flat" alt="diditeko" /> </p>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/violett_21) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/diditekosetyo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:diditekosetyo@gmail.com) 
 
-<p align="left"> <a href="https://twitter.com/bosstaurus4" target="blank"><img src="https://img.shields.io/twitter/follow/bosstaurus4?logo=twitter&style=for-the-badge" alt="bosstaurus4" /></a> </p>
+# 💻 Tech Stack:
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=diditeko&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=diditeko&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=diditeko&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 👨‍💻 All of my projects are available at [https://github.com/diditeko](https://github.com/diditeko)
-- You can se my portfolio at [https://portofolio-didit.vercel.app/]
+---
+[![](https://visitcount.itsvg.in/api?id=diditeko&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 📝 I regularly write articles on [https://medium.com/@diditekosetyo](https://medium.com/@diditekosetyo)
-
-- 💬 Ask me about **Data scientist, Machine Learning, Deep Learning**
-
-- 📫 How to reach me **diditekosetyo@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/diditekosetyoariandi/](https://www.linkedin.com/in/diditekosetyoariandi/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/bosstaurus4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bosstaurus4" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/diditekosetyoariandi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diditekosetyoariandi" height="30" width="40" /></a>
-<a href="https://instagram.com/mr.mzno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.mzno" height="30" width="40" /></a>
-<a href="https://medium.com/@diditekosetyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@diditekosetyo" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diditeko&show_icons=true&locale=en&layout=compact" alt="diditeko" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diditeko&show_icons=true&locale=en" alt="diditeko" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diditeko&" alt="diditeko" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
